@@ -246,7 +246,6 @@ FREQUENCY = 1 / (TOTAL TIME) = 1 / 1.0 = 1 kHz
 DUTY RATIO = TON / (TON + TOFF) = 0.9 / 1.0 = 0.9 = 90%
 ```
 
-
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
 
